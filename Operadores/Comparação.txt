@@ -1,0 +1,15 @@
+== Igual
+
+!= Diferente
+
+=== Estritamente Igual (verifica contéudo e tipo da variável)
+
+!== Estritamente Diferente (verifica contéudo e tipo da variável)
+
+< Menor que
+
+<= Menor ou Igual a
+
+> Maior que
+
+=> Maior ou igual a

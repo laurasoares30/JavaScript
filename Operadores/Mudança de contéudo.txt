@@ -1,0 +1,6 @@
+
+= Atribui valor a uma variável
+
+++ Incrementa valor de uma variável X++ é o mesmo X=X+1
+
+-- Decrementa valor de uma variável X-- é o mesmo X=X-1

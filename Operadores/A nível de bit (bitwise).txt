@@ -1,0 +1,13 @@
+& Operador E 
+
+|| Operador OU 
+
+Operador OU EXCLUSIVO 
+
+~ Operador NÃO 
+
+>> Rotação de bits para direita 
+
+<< Rotação de bits para esquerda 
+
+>>> Rotação de bits para direita sem levar em consideração o sinal

@@ -1,0 +1,9 @@
+% resto (divisão)
+
++ soma
+
+- subtração
+
+* multiplicação
+
+/ divisão
